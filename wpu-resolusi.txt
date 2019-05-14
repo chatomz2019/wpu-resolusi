@@ -4,3 +4,4 @@ WPU RESOLUSI
 - Membuat forum diskusi
 - Kolaborsasi dengan lebih banyak expert
 - Membuat vlog
+- ini adalah mengedit dari lokal
